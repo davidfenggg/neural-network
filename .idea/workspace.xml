@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d0a38002-a930-4883-a76b-3794ddf78b8a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Y002Uzif5psZt9LthhWLjFadOs" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.tabs" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.DianeMain">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+      <method />
+    </configuration>
+    <configuration name="DianeMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DianeMain" />
+      <module name="Neural Net Project" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FingerMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FingerMain" />
+      <module name="Neural Net Project" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FingersMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FingersMain" />
+      <module name="Neural Net Project" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Neural Net Project" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.DianeMain" />
+        <item itemvalue="Application.FingerMain" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.FingersMain" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d0a38002-a930-4883-a76b-3794ddf78b8a" name="Default Changelist" comment="" />
+      <created>1582063997790</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582063997790</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="422" y="117" key="#DianeMain" timestamp="1589351255701">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="422" y="117" key="#DianeMain/0.0.1440.900@0.0.1440.900" timestamp="1589351255701" />
+    <state x="320" y="115" key="#Java" timestamp="1582065834203">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="320" y="115" key="#Java/0.0.1440.900@0.0.1440.900" timestamp="1582065834203" />
+    <state x="456" y="259" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1589481186650">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="456" y="259" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.900@0.0.1440.900" timestamp="1589481186650" />
+    <state width="1396" height="380" key="GridCell.Tab.0.bottom" timestamp="1589562209509">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1396" height="380" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1589562209509" />
+    <state width="1396" height="380" key="GridCell.Tab.0.bottom/0.22.1440.794@0.22.1440.794" timestamp="1589561674956" />
+    <state width="674" height="200" key="GridCell.Tab.0.bottom/0.22.1440.798@0.22.1440.798" timestamp="1589488527731" />
+    <state width="1396" height="245" key="GridCell.Tab.0.bottom/0.22.1440.801@0.22.1440.801" timestamp="1583775173887" />
+    <state width="1396" height="456" key="GridCell.Tab.0.bottom/0.22.1440.804@0.22.1440.804" timestamp="1587501514822" />
+    <state width="1396" height="245" key="GridCell.Tab.0.bottom/0.22.1440.806@0.22.1440.806" timestamp="1583349686294" />
+    <state width="1396" height="271" key="GridCell.Tab.0.bottom/0.22.1440.808@0.22.1440.808" timestamp="1586814536058" />
+    <state width="1396" height="380" key="GridCell.Tab.0.center" timestamp="1589562209506">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1396" height="380" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1589562209506" />
+    <state width="1396" height="380" key="GridCell.Tab.0.center/0.22.1440.794@0.22.1440.794" timestamp="1589561674953" />
+    <state width="674" height="200" key="GridCell.Tab.0.center/0.22.1440.798@0.22.1440.798" timestamp="1589488527729" />
+    <state width="1396" height="245" key="GridCell.Tab.0.center/0.22.1440.801@0.22.1440.801" timestamp="1583775173885" />
+    <state width="1396" height="456" key="GridCell.Tab.0.center/0.22.1440.804@0.22.1440.804" timestamp="1587501514815" />
+    <state width="1396" height="245" key="GridCell.Tab.0.center/0.22.1440.806@0.22.1440.806" timestamp="1583349686290" />
+    <state width="1396" height="271" key="GridCell.Tab.0.center/0.22.1440.808@0.22.1440.808" timestamp="1586814536055" />
+    <state width="1396" height="380" key="GridCell.Tab.0.left" timestamp="1589562209505">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1396" height="380" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1589562209505" />
+    <state width="1396" height="380" key="GridCell.Tab.0.left/0.22.1440.794@0.22.1440.794" timestamp="1589561674951" />
+    <state width="674" height="200" key="GridCell.Tab.0.left/0.22.1440.798@0.22.1440.798" timestamp="1589488527728" />
+    <state width="1396" height="245" key="GridCell.Tab.0.left/0.22.1440.801@0.22.1440.801" timestamp="1583775173868" />
+    <state width="1396" height="456" key="GridCell.Tab.0.left/0.22.1440.804@0.22.1440.804" timestamp="1587501514812" />
+    <state width="1396" height="245" key="GridCell.Tab.0.left/0.22.1440.806@0.22.1440.806" timestamp="1583349686283" />
+    <state width="1396" height="271" key="GridCell.Tab.0.left/0.22.1440.808@0.22.1440.808" timestamp="1586814536054" />
+    <state width="1396" height="380" key="GridCell.Tab.0.right" timestamp="1589562209507">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1396" height="380" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1589562209507" />
+    <state width="1396" height="380" key="GridCell.Tab.0.right/0.22.1440.794@0.22.1440.794" timestamp="1589561674954" />
+    <state width="674" height="200" key="GridCell.Tab.0.right/0.22.1440.798@0.22.1440.798" timestamp="1589488527731" />
+    <state width="1396" height="245" key="GridCell.Tab.0.right/0.22.1440.801@0.22.1440.801" timestamp="1583775173886" />
+    <state width="1396" height="456" key="GridCell.Tab.0.right/0.22.1440.804@0.22.1440.804" timestamp="1587501514820" />
+    <state width="1396" height="245" key="GridCell.Tab.0.right/0.22.1440.806@0.22.1440.806" timestamp="1583349686292" />
+    <state width="1396" height="271" key="GridCell.Tab.0.right/0.22.1440.808@0.22.1440.808" timestamp="1586814536056" />
+    <state width="1396" height="303" key="GridCell.Tab.1.bottom" timestamp="1589490801684">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1396" height="303" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1589490801684" />
+    <state width="1396" height="303" key="GridCell.Tab.1.center" timestamp="1589490801679">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1396" height="303" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1589490801679" />
+    <state width="1396" height="303" key="GridCell.Tab.1.left" timestamp="1589490801677">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1396" height="303" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1589490801677" />
+    <state width="1396" height="303" key="GridCell.Tab.1.right" timestamp="1589490801682">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1396" height="303" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1589490801682" />
+    <state x="229" y="89" key="SettingsEditor" timestamp="1589482768172">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="229" y="89" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1589482768172" />
+    <state x="406" y="271" key="com.intellij.ide.util.TipDialog" timestamp="1590192557414">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="406" y="271" key="com.intellij.ide.util.TipDialog/0.0.1440.900@0.0.1440.900" timestamp="1590192557414" />
+    <state x="406" y="271" key="com.intellij.ide.util.TipDialog/0.22.1440.794@0.22.1440.794" timestamp="1589560968234" />
+    <state x="406" y="271" key="com.intellij.ide.util.TipDialog/0.22.1440.798@0.22.1440.798" timestamp="1589489433169" />
+    <state x="406" y="263" key="com.intellij.ide.util.TipDialog/0.22.1440.801@0.22.1440.801" timestamp="1587049993205" />
+    <state x="406" y="271" key="com.intellij.ide.util.TipDialog/0.22.1440.804@0.22.1440.804" timestamp="1589295761896" />
+    <state x="406" y="271" key="com.intellij.ide.util.TipDialog/0.22.1440.806@0.22.1440.806" timestamp="1586475838917" />
+    <state x="406" y="258" key="com.intellij.ide.util.TipDialog/0.22.1440.808@0.22.1440.808" timestamp="1582260749026" />
+    <state x="100" y="100" width="1240" height="700" key="dock-window-1" timestamp="1582222700343">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="100" y="100" width="1240" height="700" key="dock-window-1/0.0.1440.900@0.0.1440.900" timestamp="1582222700343" />
+    <state x="124" y="51" key="new project wizard" timestamp="1588952066873">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="124" y="51" key="new project wizard/0.0.1440.900@0.0.1440.900" timestamp="1588952066873" />
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1589481656139">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1589481656139" />
+  </component>
+</project>
